@@ -1,0 +1,1 @@
+app.config["CACHE_TYPE"] = "null"
